@@ -2,7 +2,7 @@
   "appName": "OmniTv",
   "applicationId": "com.omnitv.app",
   "latestVersion": "1.0.1",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "updateUrl": "https://github.com/LOOPRUM/omnitv-updates/releases/download/v1.0.0/OmniTv-stable-release.apk",
   "releaseDate": "2026-05-30",
   "updateSize": "14.5 MB",
