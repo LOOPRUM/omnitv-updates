@@ -1,0 +1,13 @@
+{
+  "appName": "OmniTv",
+  "applicationId": "com.omnitv.app",
+  "latestVersion": "1.0.0",
+  "forceUpdate": true,
+  "updateUrl": "https://github.com/LOOPRUM/omnitv-updates/releases/download/v1.0.0/OmniTv-stable-release.apk",
+  "releaseDate": "2026-05-30",
+  "updateSize": "14.5 MB",
+  "changelog": {
+    "ar": "تحديث إجباري حاسم وضروري لاستمرار الخدمة:\n- تفعيل محرك الفرز المركزي لدمج فلاتر الأفلام والمسلسلات والأنمي تلقائياً.\n- أتمتة نظام الإضافات بالكامل صامتاً عند الإقلاع.\n- حقن نظام فحص الحيوية السريع (HTTP HEAD) لمنع تعليق الشبكة.\n- إصلاح مشكلات انهيار الواجهة الرئيسية وتسريع الأداء بنسبة 200%.",
+    "en": "Critical Mandatory Update Required:\n- Implemented centralized filtering and dynamic mapping for Movies, TV Series, and Anime.\n- Full background automation for plugin syncing and registration.\n- Injected pre-flight HTTP HEAD session health checker to eliminate network stalls.\n- Fixed stability bugs and boosted overall performance by 200%."
+  }
+}
