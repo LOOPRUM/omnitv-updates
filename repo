@@ -1,5 +1,5 @@
 {
-  "name": "3rabi عربي",
+  "name": "OmniTV_Arabic",
   "description": "مشاهدة الافلام والمسلسلات تجربة خالية من الاعلانات",
   "manifestVersion": 1,
   "pluginLists": ["https://raw.githubusercontent.com/LOOPRUM/omnitv-updates/refs/heads/main/plugins.json"]
